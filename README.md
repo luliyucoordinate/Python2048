@@ -8,7 +8,7 @@ This project references [yangshu's](https://github.com/yangshun/2048-python) pro
 <img src="http://wx1.sinaimg.cn/mw690/af2d2659gy1fobfxqj4wyj20o80msaa2.jpg"  width = "400" height = "400">
 </div>
 
-####On linux
+#### On linux
 
 To start the game, run:
 
