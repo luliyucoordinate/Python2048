@@ -240,3 +240,10 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+#git
+.gitignore
+.gitattributes
+
+#vs
+Python2048.sln
